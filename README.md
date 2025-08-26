@@ -1,8 +1,5 @@
-<h1 align="left">Hey 👋 What's up?</h1>
 
-###
-
-<p align="left">I'm Mohamed Hedi Basly</p>
+<h1 align="left">I'm Mohamed Hedi Basly</h1>
 
 ###
 
