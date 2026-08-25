@@ -4,7 +4,7 @@
 
 I build scalable, maintainable and high-quality frontend applications with **Angular and TypeScript**, with a strong focus on **frontend architecture, design systems, state management and developer experience**.
 
-Over the past **8+ years**, I've worked on enterprise applications in the **banking and insurance domains**, solving complex UI and business problems in collaboration with product, UX and backend teams.
+Over the past **6+ years**, I've worked on enterprise applications in the **banking and insurance domains**, solving complex UI and business problems in collaboration with product, UX and backend teams.
 
 ### What I do
 
