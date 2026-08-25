@@ -1,79 +1,86 @@
+# Hi, I'm Hedi Basly 👋
 
-<h1 align="left">I'm Hedi Basly</h1>
+### Senior Frontend Engineer · Angular Specialist · TypeScript
 
-###
+I build scalable, maintainable and high-quality frontend applications with **Angular and TypeScript**, with a strong focus on **frontend architecture, design systems, state management and developer experience**.
 
-<h2 align="left">💫 About me</h2>
+Over the past **8+ years**, I've worked on enterprise applications in the **banking and insurance domains**, solving complex UI and business problems in collaboration with product, UX and backend teams.
 
-###
+### What I do
 
-<p align="left">I turn complex UI challenges into scalable Angular applications — 8 years building enterprise-grade front-ends for banks and insurers in Paris.
- 
-Angular Developer specialized in the modern Angular ecosystem, including Signals, NgRx SignalStore, RxJS, and component-driven architecture, with a strong focus on performance, code quality, and clean architecture.
- 
-🔧 Stack: Angular 18+ · NgRx SignalStore · RxJS · TypeScript · Storybook · NestJS
- 
-🏦 Experience: Contributed to large-scale banking and insurance applications for LCL and Malakoff Humanis, collaborating closely with cross-functional teams to design and deliver business-critical features.
- 
-🚀 Focus Areas: Front-End Architecture · State Management · Performance Optimization · Developer Experience
- 
-📚 Currently deepening my knowledge of AI-powered features in Angular apps and following the Angular roadmap closely.
+- 🏗️ Design scalable **frontend architectures** for large Angular applications
+- 🎨 Build and maintain **reusable design systems and UI component libraries**
+- ⚡ Improve **performance, maintainability and developer experience**
+- 🧩 Design reusable components with **Angular Signals and modern Angular APIs**
+- 🔄 Implement robust **state management** with NgRx SignalStore and RxJS
+- 🧪 Promote testing, code quality and reliable development workflows
+- 📚 Share knowledge and explore new approaches across the Angular ecosystem
 
-Portfolio: https://balha147.github.io/portfolio/fr-FR/</p>
+### Core expertise
 
-###
+**Frontend**
 
-<h2 align="left">💻 Tech Stack:</h2>
+`Angular` · `TypeScript` · `JavaScript` · `HTML` · `SCSS`
 
-###
+**Angular ecosystem**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.brandfetch.io/angular.io/fallback/lettermark/theme/dark/h/256/w/256/icon?c=1bfwsmEH20zzEfSNTed" height="40" alt="angular logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-</div>
+`Angular Signals` · `Signal Forms` · `NgRx SignalStore` · `RxJS` · `Angular CDK`
 
-###
+**Architecture & UI**
 
-<h2 align="left">🌐 Socials:</h2>
+`Frontend Architecture` · `Design Systems` · `Component Libraries` · `Storybook` · `Accessibility` · `Responsive Design`
 
-###
+**Backend & tooling**
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/mohamed-hedi-basly" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+`NestJS` · `Node.js` · `REST APIs` · `Nx` · `Vite` · `Git`
 
+### Selected work
 
-###
+#### 🎨 Design System & UI Component Library
+
+A reusable Angular component library focused on consistency, accessibility and developer experience.
+
+**Angular · TypeScript · Signals · Storybook · SCSS · Nx**
+
+- Reusable UI components
+- Theme and design-token architecture
+- Bootstrap / Material integrations
+- Storybook documentation
+- Responsive and accessible components
+
+#### 📋 Signal Forms & Angular 22
+
+An exploration of modern Angular forms using **Signal Forms**, schema-driven validation and strongly typed models.
+
+**Angular 22 · Signal Forms · TypeScript · IndexedDB**
+
+- Schema-driven validation
+- Strongly typed forms
+- Custom form controls
+- Dynamic form structures
+- Offline persistence
+
+#### 🧾 CRM & Invoicing Application
+
+A modern Angular application exploring scalable application architecture, state management and offline-first capabilities.
+
+**Angular · Signals · NestJS · IndexedDB · TypeScript**
+
+### Currently exploring
+
+- 🚀 Modern Angular architecture
+- 🧩 Signal Forms and signal-based state management
+- 🎨 Design systems and component architecture
+- 🤖 AI-powered features in frontend applications
+- ⚡ Performance and developer experience
+
+### Let's connect
+
+I'm interested in opportunities around **Senior Frontend Engineering, Angular, frontend architecture and design systems**.
+
+🌐 [Portfolio](https://balha147.github.io/portfolio/fr-FR/)  
+💼 [LinkedIn](https://www.linkedin.com/in/mohamed-hedi-basly/)
+
+---
+
+> Building complex interfaces is not only about writing components — it's about designing systems that remain simple to evolve.
