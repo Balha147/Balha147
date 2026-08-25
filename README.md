@@ -7,7 +7,19 @@
 
 ###
 
-<p align="left">✨ Full-stack software engineer passionate about building robust and innovative applications. Expert in TypeScript, Angular, and NestJS, I turn complex technical challenges into elegant and high-performing solutions. Driven by a passion for coding and innovation, I transform ideas into useful and impactful applications.<br>📚 I'm currently learning AI<br>💬 Ask me about Javascript frameworks (Angular 17+, NestJs, Storybook, NodeJs)</p>
+<p align="left">I turn complex UI challenges into scalable Angular applications — 8 years building enterprise-grade front-ends for banks and insurers in Paris.
+ 
+Angular Developer specialized in the modern Angular ecosystem, including Signals, NgRx SignalStore, RxJS, and component-driven architecture, with a strong focus on performance, code quality, and clean architecture.
+ 
+🔧 Stack: Angular 18+ · NgRx SignalStore · RxJS · TypeScript · Storybook · NestJS
+ 
+🏦 Experience: Contributed to large-scale banking and insurance applications for LCL and Malakoff Humanis, collaborating closely with cross-functional teams to design and deliver business-critical features.
+ 
+🚀 Focus Areas: Front-End Architecture · State Management · Performance Optimization · Developer Experience
+ 
+📚 Currently deepening my knowledge of AI-powered features in Angular apps and following the Angular roadmap closely.
+
+Portfolio: https://balha147.github.io/portfolio/fr-FR/</p>
 
 ###
 
